@@ -1,6 +1,6 @@
 # Documentation index
 
-Version 1.4 execution index, updated 2026-10-02. CP2 Genetics Map and evidence appendix adopted as version 1.0; CP2 PASS / CLOSED. Prior approvals remain preserved.
+Version 1.6 execution record, updated 2026-10-02. CP3 approved and adopted; immutable integration and closure pending verification. Prior history preserved.
 
 Google Drive holds project documentation authority under SPBT; GitHub holds research artifact source history. Local files are source-history copies of approved Drive documents. They must not become competing editable authorities.
 
@@ -84,3 +84,23 @@ Baseline identity: https://github.com/FoxyLight/jeune-syndrome-research/commit/3
 Earlier candidate, approval-pending and integration-pending language is historical and superseded by this verified record. GENETICS_MAP and the CP2 appendix are version 1.0. Approved CP1 C1-C6/E01-E13 remain unchanged. Missing phenotype data, access failures, uncertain overlap and unknown quantitative prognosis remain limitations of the approved state. No additional clinical certainty is inferred from approval.
 
 This later closure record references the preceding immutable baseline and does not claim its own commit SHA. PROJECT_STATUS retains exactly one project Next Evidence Source. Stop with CP2 closed; CP3 is NOT STARTED and requires separate authorization.
+
+## CP3 candidate review artifacts
+
+Date: 2026-10-02. Explicit "CP3 Authorized" permits bounded Management and Outcomes research. CP2 remains PASS / CLOSED. Earlier CP3-not-started statements are historical. Approved medical authority remains CP1 C1-C6 and CP2 G1-G6 with their recorded limitations.
+
+MANAGEMENT_AND_OUTCOMES.md, version 0.1, VERIFIED CANDIDATE / AWAITING HUMAN APPROVAL: checkpoint contract, respiratory and multidisciplinary care, thoracic surgery, renal/hepatic surveillance and treatment, transplantation, ophthalmology, orthopedic/cervical care, M1-M7 and uncertainty. Review copy: https://docs.google.com/document/d/1j74WPxJ5HWdzllK9zSpo7hwGrV35XjXV7fr4rhWE6ic/edit .
+
+EVIDENCE_REGISTER.md retains approved CP1/CP2 sections and adds CP3 candidate appendix 0.1, E37-E60, including reused-source extensions without duplicate participants. Review copy: https://docs.google.com/document/d/1NvOFz5ghor8vsBdKSNWB1QGeC5MQ-7xqTOk2FP1l1oU/edit . Native contents and structural preservation are verified.
+
+PROJECT_STATUS and DECISIONS are version 1.5 execution records. They record CP3 authorization and pending medical adoption separately. Specification 1.0 and master policy remain unchanged. Drive is documentation authority; local files preserve source history. CP3 is not closed, no CP3 Git integration exists, and CP4 is NOT STARTED.
+
+## CP3 approved adoption and integration authorization
+
+Date: 2026-10-02. The user explicitly approved CP3 M1-M7 and evidence appendix E37-E60 at their stated confidence levels and limitations, authorized Drive adoption and Git commit/push, and required verified CP3 closure with no CP4 work.
+
+MANAGEMENT_AND_OUTCOMES version 0.1 is adopted as version 1.0. EVIDENCE_REGISTER preserves its approved CP1 and CP2 sections and adopts the CP3 appendix as version 1.0. Prior candidate and pending-approval statements remain historical submission records, superseded by this adoption. Evidence confidence, access limits, surveillance and timing uncertainty, unknown causal treatment effects, genotype limits and possible cohort overlap are unchanged. Approval does not create additional clinical certainty.
+
+Current medical authority: CP1 C1-C6, CP2 G1-G6 and CP3 M1-M7 at their recorded confidences and limitations. Drive adoption is approved. Git integration and closure remain PENDING until verified. No CP3 SHA is claimed before its commit exists. CP4 is NOT STARTED.
+
+Management and Outcomes: https://docs.google.com/document/d/1j74WPxJ5HWdzllK9zSpo7hwGrV35XjXV7fr4rhWE6ic/edit . Evidence register: https://docs.google.com/document/d/1NvOFz5ghor8vsBdKSNWB1QGeC5MQ-7xqTOk2FP1l1oU/edit .

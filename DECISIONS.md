@@ -1,6 +1,6 @@
 # Decisions
 
-Version 1.4 execution record, updated 2026-10-02. CP2 adoption approved and integrated; PASS / CLOSED. Prior approvals and the original candidate proposal table remain preserved.
+Version 1.6 execution record, updated 2026-10-02. CP3 approved and adopted; immutable integration and closure pending verification. Prior history preserved.
 
 | ID | Proposed decision | Basis | Approval state |
 | --- | --- | --- | --- |
@@ -60,3 +60,21 @@ Baseline identity: https://github.com/FoxyLight/jeune-syndrome-research/commit/3
 Earlier candidate, approval-pending and integration-pending language is historical and superseded by this verified record. GENETICS_MAP and the CP2 appendix are version 1.0. Approved CP1 C1-C6/E01-E13 remain unchanged. Missing phenotype data, access failures, uncertain overlap and unknown quantitative prognosis remain limitations of the approved state. No additional clinical certainty is inferred from approval.
 
 This later closure record references the preceding immutable baseline and does not claim its own commit SHA. PROJECT_STATUS retains exactly one project Next Evidence Source. Stop with CP2 closed; CP3 is NOT STARTED and requires separate authorization.
+
+## CP3 authorization and pending adoption
+
+Date: 2026-10-02. User instruction "CP3 Authorized" permits bounded management research and candidate review artifacts. It does not adopt M1-M7 or E37-E60, close CP3, authorize commit/push or start CP4. Prior CP3-not-started statements are historical; CP2 remains PASS / CLOSED at its recorded identities.
+
+Candidate decisions for review: M1 documented supportive/multidisciplinary practice; M2 available specialist surgery with preliminary outcomes and unknown causal benefit/timing; M3 surveillance rationale without validated intervals; M4 selected renal replacement/transplant feasibility; M5 preliminary hepatic treatment and transplant observations; M6 eye/skeletal assessment with limited intervention evidence; M7 separation of clinical practice, regulatory status, experimentation and demonstrated efficacy. Confidence and all limitations are recorded in the candidate and appendix.
+
+Review target: https://docs.google.com/document/d/1j74WPxJ5HWdzllK9zSpo7hwGrV35XjXV7fr4rhWE6ic/edit . Evidence appendix: https://docs.google.com/document/d/1NvOFz5ghor8vsBdKSNWB1QGeC5MQ-7xqTOk2FP1l1oU/edit . Human adoption remains PENDING; approved CP1/CP2 authority is unchanged. Stop before adoption, integration, closure or CP4.
+
+## CP3 approved adoption and integration authorization
+
+Date: 2026-10-02. The user explicitly approved CP3 M1-M7 and evidence appendix E37-E60 at their stated confidence levels and limitations, authorized Drive adoption and Git commit/push, and required verified CP3 closure with no CP4 work.
+
+MANAGEMENT_AND_OUTCOMES version 0.1 is adopted as version 1.0. EVIDENCE_REGISTER preserves its approved CP1 and CP2 sections and adopts the CP3 appendix as version 1.0. Prior candidate and pending-approval statements remain historical submission records, superseded by this adoption. Evidence confidence, access limits, surveillance and timing uncertainty, unknown causal treatment effects, genotype limits and possible cohort overlap are unchanged. Approval does not create additional clinical certainty.
+
+Current medical authority: CP1 C1-C6, CP2 G1-G6 and CP3 M1-M7 at their recorded confidences and limitations. Drive adoption is approved. Git integration and closure remain PENDING until verified. No CP3 SHA is claimed before its commit exists. CP4 is NOT STARTED.
+
+Management and Outcomes: https://docs.google.com/document/d/1j74WPxJ5HWdzllK9zSpo7hwGrV35XjXV7fr4rhWE6ic/edit . Evidence register: https://docs.google.com/document/d/1NvOFz5ghor8vsBdKSNWB1QGeC5MQ-7xqTOk2FP1l1oU/edit .
