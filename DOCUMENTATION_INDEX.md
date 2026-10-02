@@ -1,6 +1,6 @@
 # Documentation index
 
-Version 1.1, human-approved 2026-10-02. Adopts candidate 0.1; no prior authoritative version exists.
+Version 1.3 execution index, updated 2026-10-02. CP2 Genetics Map and evidence appendix adopted as version 1.0; integration pending. Prior approvals remain preserved.
 
 Google Drive holds project documentation authority under SPBT; GitHub holds research artifact source history. Local files are source-history copies of approved Drive documents. They must not become competing editable authorities.
 
@@ -55,3 +55,22 @@ Date: 2026-10-02. CP1 is PASS / CLOSED. Current approved baseline and evidence r
 Baseline identity: https://github.com/FoxyLight/jeune-syndrome-research/commit/19ae0eb361cc79463acf0cc1f3923ad548febd7f
 
 CP0 governance authority and its history remain preserved. CP2 is NOT STARTED and requires separate authorization.
+
+## CP2 candidate review artifacts
+
+Date: 2026-10-02. Explicit "CP2 authorized." supersedes earlier CP2-not-started statements for bounded research execution only. CP1 remains PASS / CLOSED at its verified identities. Governance and CP1 approval history remain preserved.
+
+- GENETICS_MAP.md, version 0.1, VERIFIED CANDIDATE / AWAITING HUMAN APPROVAL: 21 classification-listed SRTD genes plus separately assessed IFT74/FGF4 reports, current aliases, mechanisms, source-specific phenotypes, illustrative variants, G1-G6 and uncertainties. Candidate review copy: https://docs.google.com/document/d/18sVeotzhrvYVkuFvErb_kb7ayKS7iMnqtoVcFkCtlMM/edit .
+- EVIDENCE_REGISTER.md: approved CP1 version 1.0 unchanged; appended CP2 candidate evidence 0.1, E14-E36. Candidate source intake is not authoritative medical adoption. Review copy: https://docs.google.com/document/d/1NvOFz5ghor8vsBdKSNWB1QGeC5MQ-7xqTOk2FP1l1oU/edit .
+
+PROJECT_STATUS.md records CP2's current execution state, pending approval/integration and the sole project Next Evidence Source. DECISIONS.md records authorization separately from pending medical adoption. No CP2 commit exists. CP3 remains NOT STARTED. Google Drive remains documentation authority; local files preserve source history.
+
+## CP2 approved adoption and integration authorization
+
+Date: 2026-10-02. The user explicitly approved CP2 G1-G6 and its evidence appendix at their stated confidence levels and limitations, authorized Drive adoption and Git commit/push, and required verified closure with no CP3 work.
+
+GENETICS_MAP version 0.1 is adopted as version 1.0. EVIDENCE_REGISTER retains its approved CP1 section unchanged and adopts CP2 appendix 0.1, E14-E36, as appendix version 1.0. Prior candidate/pending-approval statements are preserved as historical submission records and superseded by this adoption. Confidence, access limits, incomplete phenotype fields, overlap uncertainty and unknown quantitative risks remain unchanged. Approval does not establish every source assertion or reclassify clinical variants.
+
+Current research authority: CP1 C1-C6 plus CP2 G1-G6 at their recorded confidences and limitations. Drive adoption is approved; immutable Git integration and checkpoint closure remain pending until verification. No CP2 SHA is claimed before the commit exists. CP3 is NOT STARTED.
+
+Genetics Map: https://docs.google.com/document/d/18sVeotzhrvYVkuFvErb_kb7ayKS7iMnqtoVcFkCtlMM/edit . Evidence register: https://docs.google.com/document/d/1NvOFz5ghor8vsBdKSNWB1QGeC5MQ-7xqTOk2FP1l1oU/edit .

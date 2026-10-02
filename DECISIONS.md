@@ -1,6 +1,6 @@
 # Decisions
 
-Version 1.1, human-approved 2026-10-02. The table preserves the candidate proposal record from version 0.1. Adoption outcomes follow below.
+Version 1.3 execution record, updated 2026-10-02. CP2 adoption approved; integration pending. Prior approvals and the original candidate proposal table remain preserved.
 
 | ID | Proposed decision | Basis | Approval state |
 | --- | --- | --- | --- |
@@ -32,3 +32,21 @@ Date: 2026-10-02. CP1-D01 and CP1-D02 integration outcome: PASS. Approved baseli
 CP1 is PASS / CLOSED. CP2 is NOT STARTED. The prior Unix-only advisory reader deviation remains documented; no process authority or scientific confidence was changed. This closure record references the preceding immutable baseline, not its own commit.
 
 Baseline identity: https://github.com/FoxyLight/jeune-syndrome-research/commit/19ae0eb361cc79463acf0cc1f3923ad548febd7f
+
+## CP2 authorization and pending adoption
+
+Date: 2026-10-02. User instruction "CP2 authorized." permits bounded Genetics Map research and preparation of review artifacts. It does not approve G1-G6, adopt the appended medical evidence, authorize commit/push, close CP2 or start CP3. Earlier CP2-not-started statements are historical execution records.
+
+Candidate decisions: G1 classification/current aliases and differing association grades; G2 cilia/transport/signaling mechanisms with FGF4 uncertainty; G3 qualitative organ patterns; G4 variable expression without individual prediction; G5 reported versus clinically classified variants; G6 unknown quantitative prognosis and coverage limits. All remain CANDIDATE / AWAITING HUMAN APPROVAL at their recorded confidence levels.
+
+Review target: https://docs.google.com/document/d/18sVeotzhrvYVkuFvErb_kb7ayKS7iMnqtoVcFkCtlMM/edit . Supporting CP2 appendix 0.1: https://docs.google.com/document/d/1NvOFz5ghor8vsBdKSNWB1QGeC5MQ-7xqTOk2FP1l1oU/edit . Approved CP1 C1-C6/E01-E13 remain unchanged. No clinical laboratory classification is overridden.
+
+## CP2 approved adoption and integration authorization
+
+Date: 2026-10-02. The user explicitly approved CP2 G1-G6 and its evidence appendix at their stated confidence levels and limitations, authorized Drive adoption and Git commit/push, and required verified closure with no CP3 work.
+
+GENETICS_MAP version 0.1 is adopted as version 1.0. EVIDENCE_REGISTER retains its approved CP1 section unchanged and adopts CP2 appendix 0.1, E14-E36, as appendix version 1.0. Prior candidate/pending-approval statements are preserved as historical submission records and superseded by this adoption. Confidence, access limits, incomplete phenotype fields, overlap uncertainty and unknown quantitative risks remain unchanged. Approval does not establish every source assertion or reclassify clinical variants.
+
+Current research authority: CP1 C1-C6 plus CP2 G1-G6 at their recorded confidences and limitations. Drive adoption is approved; immutable Git integration and checkpoint closure remain pending until verification. No CP2 SHA is claimed before the commit exists. CP3 is NOT STARTED.
+
+Genetics Map: https://docs.google.com/document/d/18sVeotzhrvYVkuFvErb_kb7ayKS7iMnqtoVcFkCtlMM/edit . Evidence register: https://docs.google.com/document/d/1NvOFz5ghor8vsBdKSNWB1QGeC5MQ-7xqTOk2FP1l1oU/edit .
