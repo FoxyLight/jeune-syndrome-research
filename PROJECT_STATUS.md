@@ -1,6 +1,6 @@
 # Project status
 
-Version 1.3 execution record, CP2 approved adoption; integration and closure pending. CP1 PASS / CLOSED and CP0 history preserved 2026-10-02.
+Version 1.4 execution record, CP2 PASS / CLOSED. CP1 PASS / CLOSED and CP0 history preserved 2026-10-02.
 
 | Field | Current state |
 | --- | --- |
@@ -11,23 +11,23 @@ Version 1.3 execution record, CP2 approved adoption; integration and closure pen
 | Integration branch | `main` |
 | Repository starting state | Empty remote cloned successfully; no starting commit existed |
 | Starting commit SHA | None exists |
-| Authoritative baseline SHA | `19ae0eb361cc79463acf0cc1f3923ad548febd7f` on `main`, pushed and remote identity verified |
+| Authoritative baseline SHA | `3ae525bd37263f31a0d88727831b4abaa257490d` on `main`, pushed and remote identity verified |
 | Current checkpoint | CP2: Genetics Map |
-| Checkpoint status | APPROVED / INTEGRATION AND CLOSURE PENDING |
-| Latest completed checkpoint | CP1 |
-| Current question | G1-G6 approved at their stated confidences and limits; complete and verify immutable integration. |
-| Research authority | CP1 C1-C6 and CP2 G1-G6 approved at their stated confidences and limitations; CP2 immutable integration pending |
+| Checkpoint status | PASS / CLOSED |
+| Latest completed checkpoint | CP2 |
+| Current question | G1-G6 approved and integrated at their stated confidences and limits; CP2 closed. |
+| Research authority | CP1 C1-C6 and CP2 G1-G6 approved at their stated confidences and limitations; CP2 immutable identity verified |
 | Verification | Setup checks passed 2026-10-02: repository identity, SPBT reconciliation, byte-for-byte policy preservation, internal file links, required status fields, one project Next Evidence Source, and native Drive content, dates, links, headings, and lists readback for all four authority documents. CP0 setup-only checks; CP1 evidence, Drive adoption and immutable identity verification recorded below |
 | Human approval | Explicit CP2 G1-G6 and evidence-appendix approval on 2026-10-02, including Drive adoption and Git commit/push; prior approvals preserved below |
-| Integration | CP1 integrated; CP2 approved integration pending verification |
+| Integration | CP2 baseline committed, pushed and remote identity verified; closure record references that preceding immutable commit |
 
 Unresolved issues: Contemporary population survival and lifetime organ risks remain unknown; some key sources are abstract-only and cohort overlap is unresolved. The CP1 baseline is approved and integrated; these evidence uncertainties remain open.
 
-**Baseline identity:** https://github.com/FoxyLight/jeune-syndrome-research/commit/19ae0eb361cc79463acf0cc1f3923ad548febd7f
+**Baseline identity:** https://github.com/FoxyLight/jeune-syndrome-research/commit/3ae525bd37263f31a0d88727831b4abaa257490d
 
-**Next Evidence Source:** ClinGen IFT81 SRTD19 evidence table and its cited primary cases, assessment approved 2025-03-05, https://search.clinicalgenome.org/kb/gene-validity/CGGV:assertion_eb2fbc39-acf0-4c60-904a-d712171f601d-2025-03-05T170000.000Z , for complete case-by-case age, organ and follow-up extraction. The moderate validity summary is already verified; underlying phenotype extraction remains incomplete. This replaces the CP1 queue entry, whose Baujat full-text limitation remains recorded in E05 and CP1 history. Further intake awaits the review decision.
+**Next Evidence Source:** ClinGen IFT81 SRTD19 evidence table and its cited primary cases, assessment approved 2025-03-05, https://search.clinicalgenome.org/kb/gene-validity/CGGV:assertion_eb2fbc39-acf0-4c60-904a-d712171f601d-2025-03-05T170000.000Z , for complete case-by-case age, organ and follow-up extraction. The moderate validity summary is already verified; underlying phenotype extraction remains incomplete. This replaces the CP1 queue entry, whose Baujat full-text limitation remains recorded in E05 and CP1 history. Further intake requires separate checkpoint authorization.
 
-**Immediate next action:** Complete authorized CP2 integration and verify closure; stop before CP3.
+**Immediate next action:** Stop with CP2 closed; await separate CP3 authorization.
 
 **Process authority:** SPBT v1.1.1 in Google Drive, applied through the supplied research policy. Google Drive holds project documentation authority; local documents are source-history copies. No active exception exists. Software build, toolchain, CI, database, release, and experiential validation fields are inapplicable to this non-code checkpoint.
 
@@ -84,3 +84,13 @@ GENETICS_MAP version 0.1 is adopted as version 1.0. EVIDENCE_REGISTER retains it
 Current research authority: CP1 C1-C6 plus CP2 G1-G6 at their recorded confidences and limitations. Drive adoption is approved; immutable Git integration and checkpoint closure remain pending until verification. No CP2 SHA is claimed before the commit exists. CP3 is NOT STARTED.
 
 Genetics Map: https://docs.google.com/document/d/18sVeotzhrvYVkuFvErb_kb7ayKS7iMnqtoVcFkCtlMM/edit . Evidence register: https://docs.google.com/document/d/1NvOFz5ghor8vsBdKSNWB1QGeC5MQ-7xqTOk2FP1l1oU/edit .
+
+## CP2 verified closure record
+
+Date: 2026-10-02. CP2 status: PASS / CLOSED. G1-G6 and appendix E14-E36 are human-approved at their recorded confidence levels and limitations. Required Drive adoption and native readback passed, with original dates/links preserved. Scoped staging, whitespace, policy preservation and credential checks passed. Approved baseline commit 3ae525bd37263f31a0d88727831b4abaa257490d was pushed on main and matched against GitHub refs/heads/main.
+
+Baseline identity: https://github.com/FoxyLight/jeune-syndrome-research/commit/3ae525bd37263f31a0d88727831b4abaa257490d
+
+Earlier candidate, approval-pending and integration-pending language is historical and superseded by this verified record. GENETICS_MAP and the CP2 appendix are version 1.0. Approved CP1 C1-C6/E01-E13 remain unchanged. Missing phenotype data, access failures, uncertain overlap and unknown quantitative prognosis remain limitations of the approved state. No additional clinical certainty is inferred from approval.
+
+This later closure record references the preceding immutable baseline and does not claim its own commit SHA. PROJECT_STATUS retains exactly one project Next Evidence Source. Stop with CP2 closed; CP3 is NOT STARTED and requires separate authorization.

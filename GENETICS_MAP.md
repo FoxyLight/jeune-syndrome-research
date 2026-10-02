@@ -1,6 +1,6 @@
 # CP2: Genetics Map
 
-Version 1.0. CURRENT / AUTHORITATIVE, human-approved 2026-10-02 at the stated confidence levels and limitations. Sources checked 2026-10-02. CP2 integration and closure are pending verification. The submitted candidate synthesis is preserved below with its original labels and approval-boundary language as historical text.
+Version 1.0. CURRENT / AUTHORITATIVE, human-approved 2026-10-02 at the stated confidence levels and limitations. Sources checked 2026-10-02. CP2 PASS / CLOSED after verified integration. The submitted candidate synthesis is preserved below with its original labels and approval-boundary language as historical text.
 
 Candidate review copy: https://docs.google.com/document/d/18sVeotzhrvYVkuFvErb_kb7ayKS7iMnqtoVcFkCtlMM/edit . Evidence register: https://docs.google.com/document/d/1NvOFz5ghor8vsBdKSNWB1QGeC5MQ-7xqTOk2FP1l1oU/edit . Google Drive holds documentation authority; local files preserve source history.
 
@@ -174,3 +174,13 @@ GENETICS_MAP version 0.1 is adopted as version 1.0. EVIDENCE_REGISTER retains it
 Current research authority: CP1 C1-C6 plus CP2 G1-G6 at their recorded confidences and limitations. Drive adoption is approved; immutable Git integration and checkpoint closure remain pending until verification. No CP2 SHA is claimed before the commit exists. CP3 is NOT STARTED.
 
 Genetics Map: https://docs.google.com/document/d/18sVeotzhrvYVkuFvErb_kb7ayKS7iMnqtoVcFkCtlMM/edit . Evidence register: https://docs.google.com/document/d/1NvOFz5ghor8vsBdKSNWB1QGeC5MQ-7xqTOk2FP1l1oU/edit .
+
+## CP2 verified closure record
+
+Date: 2026-10-02. CP2 status: PASS / CLOSED. G1-G6 and appendix E14-E36 are human-approved at their recorded confidence levels and limitations. Required Drive adoption and native readback passed, with original dates/links preserved. Scoped staging, whitespace, policy preservation and credential checks passed. Approved baseline commit 3ae525bd37263f31a0d88727831b4abaa257490d was pushed on main and matched against GitHub refs/heads/main.
+
+Baseline identity: https://github.com/FoxyLight/jeune-syndrome-research/commit/3ae525bd37263f31a0d88727831b4abaa257490d
+
+Earlier candidate, approval-pending and integration-pending language is historical and superseded by this verified record. GENETICS_MAP and the CP2 appendix are version 1.0. Approved CP1 C1-C6/E01-E13 remain unchanged. Missing phenotype data, access failures, uncertain overlap and unknown quantitative prognosis remain limitations of the approved state. No additional clinical certainty is inferred from approval.
+
+This later closure record references the preceding immutable baseline and does not claim its own commit SHA. PROJECT_STATUS retains exactly one project Next Evidence Source. Stop with CP2 closed; CP3 is NOT STARTED and requires separate authorization.
