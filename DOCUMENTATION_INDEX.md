@@ -47,3 +47,11 @@ Date: 2026-10-02. Explicit user approval "Verified and authorized." adopts CP1 C
 - EVIDENCE_REGISTER.md, version 1.0, approved evidence record supporting that baseline, with source limits preserved: https://docs.google.com/document/d/1NvOFz5ghor8vsBdKSNWB1QGeC5MQ-7xqTOk2FP1l1oU/edit
 
 Google Drive remains documentation authority; corresponding local files preserve source history. PROJECT_STATUS.md and DECISIONS.md are version 1.1 execution and decision records; specification 1.0 and supplied master policy remain unchanged. Git integration and CP1 closure verification are pending. CP2 is NOT STARTED.
+
+## CP1 verified immutable integration
+
+Date: 2026-10-02. CP1 is PASS / CLOSED. Current approved baseline and evidence record version 1.0 are integrated on main at 19ae0eb361cc79463acf0cc1f3923ad548febd7f, pushed and matched to GitHub's remote ref. The approval section's pending integration statement is historical. Local files and Drive adoption records were verified before baseline integration; this later closure record preserves the resulting identity.
+
+Baseline identity: https://github.com/FoxyLight/jeune-syndrome-research/commit/19ae0eb361cc79463acf0cc1f3923ad548febd7f
+
+CP0 governance authority and its history remain preserved. CP2 is NOT STARTED and requires separate authorization.

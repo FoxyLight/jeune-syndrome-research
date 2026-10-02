@@ -1,6 +1,6 @@
 # CP1: Disease and Natural History Baseline
 
-Version 1.0. Status: HUMAN-APPROVED / AUTHORITATIVE ADOPTION; INTEGRATION PENDING. Authorized and evidence checked 2026-10-02. CP1 remains OPEN until verified Git integration. C1-C6 are explicitly approved at their recorded confidence levels and limitations.
+Version 1.0. Status: CURRENT / AUTHORITATIVE; CP1 PASS / CLOSED. Authorized and evidence checked 2026-10-02. CP1 is PASS / CLOSED after verified Git integration. C1-C6 are explicitly approved at their recorded confidence levels and limitations.
 
 Authoritative baseline: https://docs.google.com/document/d/129NR48dw4StzfstoUEPPmuwP4RlV99y0bdSZCT4Erds/edit. Evidence record: https://docs.google.com/document/d/1NvOFz5ghor8vsBdKSNWB1QGeC5MQ-7xqTOk2FP1l1oU/edit. Drive holds documentation authority; local files preserve corresponding source history.
 
@@ -72,7 +72,7 @@ The registered prospective natural-history study NCT00948376 is marked completed
 | Overlap and duplication | Possible overlap and review reuse flagged; no pooled totals, percentages, or survival calculation |
 | Currency | Recent 2023-2026 title screen, selected primary records, and current registry response checked |
 | Overstatement control | No mortality percentage, validated prenatal predictor, treatment benefit, lifetime organ absence, or variant pathogenicity adopted |
-| Human interpretation and integration | Explicit approval received; integration and immutable SHA pending |
+| Human interpretation and integration | Explicit approval received; Drive adoption readback and pushed baseline identity verified |
 
 Evidence verification supports the bounded qualitative candidate, subject to the documented source-access and ascertainment limits. It does not certify that every underlying study or medical statement is correct. Approval can adopt C1-C6 at their stated confidence and uncertainty levels; it cannot turn unknown quantities into established facts.
 
@@ -83,3 +83,11 @@ Review artifacts: this approved baseline and [EVIDENCE_REGISTER.md](EVIDENCE_REG
 Date: 2026-10-02. The user answered "Verified and authorized." in response to the concrete approval instruction for CP1 C1-C6, Drive authority updates, Git commit/push, verified integration and closure, with CP2 excluded. This explicitly approves C1-C6 at their stated evidence confidence and limitations. Candidate 0.1 is adopted as version 1.0; its scientific text, claim identifiers, confidence levels, uncertainties and source mapping remain preserved. Candidate wording within the submitted synthesis and original checkpoint contract describes the reviewed proposal, not a competing current authority.
 
 No unknown survival rate, preliminary prenatal predictor, treatment effect, or variant classification becomes established through approval. Integration identity and CP1 closure will be recorded only after verified push. CP2 is NOT STARTED.
+
+## CP1 verified closure
+
+Date: 2026-10-02. Status: PASS / CLOSED. Human approval, Drive authority adoption, document readback, scoped credential/policy checks, and immutable Git integration are complete. Approved baseline: 19ae0eb361cc79463acf0cc1f3923ad548febd7f on main, pushed and independently matched against GitHub refs/heads/main.
+
+Baseline identity: https://github.com/FoxyLight/jeune-syndrome-research/commit/19ae0eb361cc79463acf0cc1f3923ad548febd7f
+
+This later closure record cites the preceding approved-baseline commit; it does not claim to contain its own commit SHA. Pending integration statements in the approval section are historical. C1-C6 remain approved at their original confidence levels and limitations. CP2 is NOT STARTED.

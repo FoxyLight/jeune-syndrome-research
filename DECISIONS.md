@@ -24,3 +24,11 @@ CP0-D03 consequences: local drafts are review candidates and will become source-
 Date: 2026-10-02. CP1-D01: Adopt the verified candidate baseline conclusions C1-C6 and supporting evidence register 0.1 as version 1.0, preserving all confidence levels, source-access limitations and unresolved quantities. Basis: explicit user response "Verified and authorized." to the concrete CP1 approval and integration instruction. Status: APPROVED; immutable integration verification pending.
 
 CP1-D02: Authorize required Drive authority updates and Git commit/push on main, followed by verification and CP1 closure. CP2 remains NOT STARTED and requires separate authorization. Existing CP0 decisions, approval records and immutable governance history remain preserved. No new research conclusion or process exception is introduced.
+
+## CP1 integration and closure outcome
+
+Date: 2026-10-02. CP1-D01 and CP1-D02 integration outcome: PASS. Approved baseline 19ae0eb361cc79463acf0cc1f3923ad548febd7f on main is pushed and matches GitHub's remote ref. Required Drive content and native date/link preservation readback passed. Scoped source-history artifacts passed whitespace, credential screening and unchanged master-policy checks. The earlier pending adoption outcome is preserved as history.
+
+CP1 is PASS / CLOSED. CP2 is NOT STARTED. The prior Unix-only advisory reader deviation remains documented; no process authority or scientific confidence was changed. This closure record references the preceding immutable baseline, not its own commit.
+
+Baseline identity: https://github.com/FoxyLight/jeune-syndrome-research/commit/19ae0eb361cc79463acf0cc1f3923ad548febd7f

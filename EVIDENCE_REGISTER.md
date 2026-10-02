@@ -91,3 +91,9 @@ Qualitative definition, heterogeneity, possible early respiratory lethality, sur
 ## CP1 adoption record
 
 Date: 2026-10-02. Explicit user approval "Verified and authorized." adopts evidence record 0.1 as version 1.0 in support of CP1 conclusions C1-C6. Individual source observations retain their recorded confidence, access and applicability limits. Approval does not convert all source claims into established facts or add the later conversational Haller/Campbell findings to this frozen package. Git integration and checkpoint closure are separate verification steps. CP2 is NOT STARTED.
+
+## CP1 integration identity
+
+Date: 2026-10-02. Approved evidence record is preserved in baseline commit 19ae0eb361cc79463acf0cc1f3923ad548febd7f on main, pushed and remote identity verified. CP1 is PASS / CLOSED. Source access limits, unknown quantities, suspected overlap and the bounded-review scope remain unchanged. The preceding adoption record's pending integration statement is historical. CP2 is NOT STARTED.
+
+Baseline identity: https://github.com/FoxyLight/jeune-syndrome-research/commit/19ae0eb361cc79463acf0cc1f3923ad548febd7f
