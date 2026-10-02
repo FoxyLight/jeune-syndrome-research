@@ -1,6 +1,6 @@
 # CP3: Management and Outcomes
 
-Version 1.0. CURRENT / AUTHORITATIVE, human-approved at the stated confidence levels and limitations. Integration and closure pending verification. Submitted candidate labels below are historical. Evidence checked 2026-10-02. This is a research synthesis, not an individual treatment plan. Established, probable, preliminary and unknown describe evidence confidence; none confers project authority.
+Version 1.0. CURRENT / AUTHORITATIVE, human-approved at the stated confidence levels and limitations. CP3 PASS / CLOSED after verified integration. Submitted candidate labels below are historical. Evidence checked 2026-10-02. This is a research synthesis, not an individual treatment plan. Established, probable, preliminary and unknown describe evidence confidence; none confers project authority.
 
 Review copy: https://docs.google.com/document/d/1j74WPxJ5HWdzllK9zSpo7hwGrV35XjXV7fr4rhWE6ic/edit . Evidence appendix: https://docs.google.com/document/d/1NvOFz5ghor8vsBdKSNWB1QGeC5MQ-7xqTOk2FP1l1oU/edit . Drive holds documentation authority; local files preserve source history.
 
@@ -90,3 +90,13 @@ MANAGEMENT_AND_OUTCOMES version 0.1 is adopted as version 1.0. EVIDENCE_REGISTER
 Current medical authority: CP1 C1-C6, CP2 G1-G6 and CP3 M1-M7 at their recorded confidences and limitations. Drive adoption is approved. Git integration and closure remain PENDING until verified. No CP3 SHA is claimed before its commit exists. CP4 is NOT STARTED.
 
 Management and Outcomes: https://docs.google.com/document/d/1j74WPxJ5HWdzllK9zSpo7hwGrV35XjXV7fr4rhWE6ic/edit . Evidence register: https://docs.google.com/document/d/1NvOFz5ghor8vsBdKSNWB1QGeC5MQ-7xqTOk2FP1l1oU/edit .
+
+## CP3 verified closure record
+
+Date: 2026-10-02. CP3 status: PASS / CLOSED. M1-M7 and appendix E37-E60 are human-approved at their recorded confidence levels and limitations. All five Drive adoption records passed native readback with prior dates and resource links preserved. Scoped staging, whitespace, policy preservation and credential checks passed. Approved baseline commit 8c43230a2817999f7ccc305cc1c1060e35ec2f27 was pushed on main and matched against GitHub refs/heads/main.
+
+Baseline identity: https://github.com/FoxyLight/jeune-syndrome-research/commit/8c43230a2817999f7ccc305cc1c1060e35ec2f27
+
+Earlier candidate, approval-pending and integration-pending statements are historical and superseded by this verified record. MANAGEMENT_AND_OUTCOMES and the CP3 appendix are version 1.0. Approved CP1/CP2 evidence and source history remain preserved. Small selected samples, source access limits, unvalidated schedules/timing, unknown causal efficacy and unresolved overlap remain limitations of the approved state.
+
+This later closure record references the preceding immutable baseline and does not claim its own commit SHA. PROJECT_STATUS retains exactly one project Next Evidence Source. Stop with CP3 closed; CP4 is NOT STARTED and requires separate authorization.

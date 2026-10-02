@@ -1,6 +1,6 @@
 # Project status
 
-Version 1.6 execution record, updated 2026-10-02. CP3 approved and adopted; immutable integration and closure pending verification. Prior history preserved.
+Version 1.7 execution record, updated 2026-10-02. CP3 approved and integrated; PASS / CLOSED. Prior history preserved.
 
 | Field | Current state |
 | --- | --- |
@@ -11,25 +11,25 @@ Version 1.6 execution record, updated 2026-10-02. CP3 approved and adopted; immu
 | Integration branch | `main` |
 | Repository starting state | Empty remote cloned successfully; no starting commit existed |
 | Starting commit SHA | None exists |
-| Authoritative baseline SHA | `3ae525bd37263f31a0d88727831b4abaa257490d` on `main`, pushed and remote identity verified |
+| Authoritative baseline SHA | `8c43230a2817999f7ccc305cc1c1060e35ec2f27` on `main`, pushed and remote identity verified |
 | Current checkpoint | CP3: Management and Outcomes |
-| Checkpoint status | APPROVED / INTEGRATION PENDING |
-| Latest completed checkpoint | CP2 |
-| Current question | Which management approaches and outcomes are directly supported, and which remain practice, experimental or unknown? |
-| Research authority | CP1 C1-C6, CP2 G1-G6 and CP3 M1-M7 approved at their recorded confidences and limitations; CP3 integration pending |
+| Checkpoint status | PASS / CLOSED |
+| Latest completed checkpoint | CP3 |
+| Current question | M1-M7 approved and integrated at their stated confidences and limitations; CP3 closed. |
+| Research authority | CP1 C1-C6, CP2 G1-G6 and CP3 M1-M7 authoritative at their recorded confidences and limitations; immutable identity verified |
 | Verification | Setup checks passed 2026-10-02: repository identity, SPBT reconciliation, byte-for-byte policy preservation, internal file links, required status fields, one project Next Evidence Source, and native Drive content, dates, links, headings, and lists readback for all four authority documents. CP0 setup-only checks; CP1 evidence, Drive adoption and immutable identity verification recorded below |
 | Human approval | CP3 M1-M7 and E37-E60 explicitly approved 2026-10-02; Drive adoption and Git commit/push authorized |
-| Integration | CP3 NOT DONE; no CP3 SHA. CP2 approved baseline and closure history remain preserved |
+| Integration | CP3 baseline committed, pushed and remote identity verified; closure record references that preceding immutable baseline |
 
 Unresolved issues: Contemporary population survival and lifetime organ risks remain unknown; some key sources are abstract-only and cohort overlap is unresolved. The CP1 baseline is approved and integrated; these evidence uncertainties remain open.
 
-**Baseline identity:** https://github.com/FoxyLight/jeune-syndrome-research/commit/3ae525bd37263f31a0d88727831b4abaa257490d
+**Baseline identity:** https://github.com/FoxyLight/jeune-syndrome-research/commit/8c43230a2817999f7ccc305cc1c1060e35ec2f27
 
 **Next Evidence Source:** O'Brien / Campbell 2015 VEPTR full clinical text, DOI 10.1097/BPO.0000000000000383, https://doi.org/10.1097/BPO.0000000000000383 , for patient-level complication timing, pulmonary-function denominators and overlap clarification. Abstract-level findings are verified in E08/E41; full text remains unavailable in this review. The former IFT81 case-detail queue remains an unresolved CP2 limitation, not additional active work. Further intake requires authorization.
 
 **Former CP2 evidence queue (historical):** ClinGen IFT81 SRTD19 evidence table and its cited primary cases, assessment approved 2025-03-05, https://search.clinicalgenome.org/kb/gene-validity/CGGV:assertion_eb2fbc39-acf0-4c60-904a-d712171f601d-2025-03-05T170000.000Z , for complete case-by-case age, organ and follow-up extraction. The moderate validity summary is already verified; underlying phenotype extraction remains incomplete. This replaces the CP1 queue entry, whose Baujat full-text limitation remains recorded in E05 and CP1 history. Further intake requires separate checkpoint authorization.
 
-**Immediate next action:** Verify approved Drive adoption and immutable Git integration, close CP3, then stop before CP4.
+**Immediate next action:** Stop with CP3 closed; await separate CP4 authorization.
 
 **Process authority:** SPBT v1.1.1 in Google Drive, applied through the supplied research policy. Google Drive holds project documentation authority; local documents are source-history copies. No active exception exists. Software build, toolchain, CI, database, release, and experiential validation fields are inapplicable to this non-code checkpoint.
 
@@ -118,3 +118,13 @@ MANAGEMENT_AND_OUTCOMES version 0.1 is adopted as version 1.0. EVIDENCE_REGISTER
 Current medical authority: CP1 C1-C6, CP2 G1-G6 and CP3 M1-M7 at their recorded confidences and limitations. Drive adoption is approved. Git integration and closure remain PENDING until verified. No CP3 SHA is claimed before its commit exists. CP4 is NOT STARTED.
 
 Management and Outcomes: https://docs.google.com/document/d/1j74WPxJ5HWdzllK9zSpo7hwGrV35XjXV7fr4rhWE6ic/edit . Evidence register: https://docs.google.com/document/d/1NvOFz5ghor8vsBdKSNWB1QGeC5MQ-7xqTOk2FP1l1oU/edit .
+
+## CP3 verified closure record
+
+Date: 2026-10-02. CP3 status: PASS / CLOSED. M1-M7 and appendix E37-E60 are human-approved at their recorded confidence levels and limitations. All five Drive adoption records passed native readback with prior dates and resource links preserved. Scoped staging, whitespace, policy preservation and credential checks passed. Approved baseline commit 8c43230a2817999f7ccc305cc1c1060e35ec2f27 was pushed on main and matched against GitHub refs/heads/main.
+
+Baseline identity: https://github.com/FoxyLight/jeune-syndrome-research/commit/8c43230a2817999f7ccc305cc1c1060e35ec2f27
+
+Earlier candidate, approval-pending and integration-pending statements are historical and superseded by this verified record. MANAGEMENT_AND_OUTCOMES and the CP3 appendix are version 1.0. Approved CP1/CP2 evidence and source history remain preserved. Small selected samples, source access limits, unvalidated schedules/timing, unknown causal efficacy and unresolved overlap remain limitations of the approved state.
+
+This later closure record references the preceding immutable baseline and does not claim its own commit SHA. PROJECT_STATUS retains exactly one project Next Evidence Source. Stop with CP3 closed; CP4 is NOT STARTED and requires separate authorization.
