@@ -1,6 +1,6 @@
 # Project status
 
-Version 1.9 execution record, updated 2026-10-04. Bounded CP5 assessment approved; adoption and immutable integration in progress. Prior history preserved.
+Version 2.0 execution record, updated 2026-10-04. Bounded CP5 assessment PASS / CLOSED; full CP5 remains incomplete. Prior history preserved.
 
 | Field | Current state |
 | --- | --- |
@@ -11,25 +11,25 @@ Version 1.9 execution record, updated 2026-10-04. Bounded CP5 assessment approve
 | Integration branch | `main` |
 | Repository starting state | Empty remote cloned successfully; no starting commit existed |
 | Starting commit SHA | None exists |
-| Authoritative baseline SHA | `8c43230a2817999f7ccc305cc1c1060e35ec2f27` on `main`, pushed and remote identity verified |
+| Authoritative baseline SHA | `bf9940ede2962b54a9220f9c94e8370726c4d7be` on `main`, pushed and remote identity verified |
 | Current checkpoint | CP5: Bounded Cure-Feasibility Assessment before CP4 |
-| Checkpoint status | HUMAN-APPROVED / INTEGRATION PENDING |
-| Latest completed checkpoint | CP3 |
-| Current question | Verify approved Drive adoption and immutable integration of bounded CP5 F1-F7/E61-E75. |
-| Research authority | CP1 C1-C6, CP2 G1-G6, CP3 M1-M7 and approved bounded CP5 F1-F7 at their recorded confidences and limitations; CP5 immutable integration pending |
+| Checkpoint status | PASS / CLOSED for bounded assessment only; full CP5 remains incomplete |
+| Latest completed checkpoint | CP3 is latest completed full checkpoint; bounded CP5 assessment closed |
+| Current question | Bounded F1-F7/E61-E75 adoption and integration verified. Stop pending separate next-work authorization. |
+| Research authority | CP1 C1-C6, CP2 G1-G6, CP3 M1-M7 and bounded CP5 F1-F7 at their recorded confidences and limitations; immutable baseline verified |
 | Verification | Setup checks passed 2026-10-02: repository identity, SPBT reconciliation, byte-for-byte policy preservation, internal file links, required status fields, one project Next Evidence Source, and native Drive content, dates, links, headings, and lists readback for all four authority documents. CP0 setup-only checks; CP1 evidence, Drive adoption and immutable identity verification recorded below |
 | Human approval | Bounded CP5 F1-F7/E61-E75 approved 2026-10-04; Drive adoption and Git commit/push authorized |
-| Integration | Bounded CP5 approved adoption and Git integration in progress; no CP5 SHA claimed yet |
+| Integration | Bounded CP5 baseline bf9940ede2962b54a9220f9c94e8370726c4d7be committed, pushed and matched against GitHub main |
 
 Unresolved issues: Contemporary population survival and lifetime organ risks remain unknown; some key sources are abstract-only and cohort overlap is unresolved. The CP1 baseline is approved and integrated; these evidence uncertainties remain open.
 
-**Baseline identity:** https://github.com/FoxyLight/jeune-syndrome-research/commit/8c43230a2817999f7ccc305cc1c1060e35ec2f27
+**Baseline identity:** https://github.com/FoxyLight/jeune-syndrome-research/commit/bf9940ede2962b54a9220f9c94e8370726c4d7be
 
 **Next Evidence Source:** Laboratory confirmation of human skeletal-ciliopathy model availability, corrected controls and cartilage endpoints. First proposed capability lead: Schmidts group, Freiburg Pediatric Genetics, https://www.uniklinik-freiburg.de/kinderklinik/forschung-und-klinische-studien/paediatrische-genetik.html . Listed capability is verified in E75; material access and collaboration feasibility are UNKNOWN. Contact requires separate authorization.
 
 **Former CP2 evidence queue (historical):** ClinGen IFT81 SRTD19 evidence table and its cited primary cases, assessment approved 2025-03-05, https://search.clinicalgenome.org/kb/gene-validity/CGGV:assertion_eb2fbc39-acf0-4c60-904a-d712171f601d-2025-03-05T170000.000Z , for complete case-by-case age, organ and follow-up extraction. The moderate validity summary is already verified; underlying phenotype extraction remains incomplete. This replaces the CP1 queue entry, whose Baujat full-text limitation remains recorded in E05 and CP1 history. Further intake requires separate checkpoint authorization.
 
-**Immediate next action:** Complete approved adoption, push and immutable identity verification; then stop before CP4, remaining CP5 research or outreach.
+**Immediate next action:** Stop. Obtain separate authorization for laboratory feasibility outreach before contacting researchers. CP4 and remaining CP5 research remain deferred.
 
 **Process authority:** SPBT v1.1.1 in Google Drive, applied through the supplied research policy. Google Drive holds project documentation authority; local documents are source-history copies. No active exception exists. Software build, toolchain, CI, database, release, and experiential validation fields are inapplicable to this non-code checkpoint.
 
@@ -162,3 +162,17 @@ Current research authority: CP1 C1-C6, CP2 G1-G6, CP3 M1-M7 and bounded CP5 F1-F
 Approved assessment: https://docs.google.com/document/d/1RwpZzjWIag8tTsWJuWAV1a39yHTRV-zfddgj3Kh3S6g/edit . Approved evidence appendix: https://docs.google.com/document/d/1NvOFz5ghor8vsBdKSNWB1QGeC5MQ-7xqTOk2FP1l1oU/edit . Google Drive remains documentation authority; local files preserve source history.
 
 Drive adoption is authorized. Git integration and bounded-assessment closure remain PENDING until native readback, source-history checks, push and immutable identity verification pass. No new SHA is claimed before its commit exists. CP3 remains closed. CP4 and remaining CP5 work remain deferred. The sole active evidence-source field remains laboratory confirmation of model availability and feasibility, pending separately authorized contact.
+
+## CP5 bounded verified closure record
+
+Date: 2026-10-04. Bounded cure-feasibility assessment status: PASS / CLOSED. F1-F7 and E61-E75 are human-approved at their stated confidence levels and limitations. All five Drive adoption records passed native content readback with original date, person and resource-link elements preserved. Scoped staging, whitespace, credential-pattern and master-policy byte-preservation checks passed. Approved baseline bf9940ede2962b54a9220f9c94e8370726c4d7be was pushed on main and matched against GitHub refs/heads/main.
+
+Baseline identity: https://github.com/FoxyLight/jeune-syndrome-research/commit/bf9940ede2962b54a9220f9c94e8370726c4d7be
+
+CURE_FEASIBILITY and the bounded E61-E75 appendix are version 1.0. Previous candidate, approval-pending and integration-pending statements are historical and superseded by this verified record. Approved CP1-CP3 medical findings and source history remain preserved. This closure establishes completed research and integration, not curative efficacy, successful treatment or clinical readiness.
+
+Scope limit: only the authorized bounded CP5 cure-feasibility assessment is PASS / CLOSED. Full CP5 coverage is not complete or closed. CP3 remains the latest completed full checkpoint. CP4 and remaining CP5 research are deferred and require separate authorization. No researcher contact, material acquisition, experiment, recruitment or financial commitment has occurred.
+
+The single active evidence source remains laboratory confirmation of existing human skeletal-ciliopathy models, corrected controls and cartilage endpoints. The highest-value next action is separately authorized feasibility outreach to an appropriate laboratory, initially the Schmidts group. Availability, access, costs and willingness to collaborate remain UNKNOWN.
+
+This later closure record references the preceding immutable approved baseline and does not claim its own commit SHA. Stop here. No later research or external action is authorized by closure.

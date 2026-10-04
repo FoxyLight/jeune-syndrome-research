@@ -447,3 +447,17 @@ Current research authority: CP1 C1-C6, CP2 G1-G6, CP3 M1-M7 and bounded CP5 F1-F
 Approved assessment: https://docs.google.com/document/d/1RwpZzjWIag8tTsWJuWAV1a39yHTRV-zfddgj3Kh3S6g/edit . Approved evidence appendix: https://docs.google.com/document/d/1NvOFz5ghor8vsBdKSNWB1QGeC5MQ-7xqTOk2FP1l1oU/edit . Google Drive remains documentation authority; local files preserve source history.
 
 Drive adoption is authorized. Git integration and bounded-assessment closure remain PENDING until native readback, source-history checks, push and immutable identity verification pass. No new SHA is claimed before its commit exists. CP3 remains closed. CP4 and remaining CP5 work remain deferred. The sole active evidence-source field remains laboratory confirmation of model availability and feasibility, pending separately authorized contact.
+
+## CP5 bounded verified closure record
+
+Date: 2026-10-04. Bounded cure-feasibility assessment status: PASS / CLOSED. F1-F7 and E61-E75 are human-approved at their stated confidence levels and limitations. All five Drive adoption records passed native content readback with original date, person and resource-link elements preserved. Scoped staging, whitespace, credential-pattern and master-policy byte-preservation checks passed. Approved baseline bf9940ede2962b54a9220f9c94e8370726c4d7be was pushed on main and matched against GitHub refs/heads/main.
+
+Baseline identity: https://github.com/FoxyLight/jeune-syndrome-research/commit/bf9940ede2962b54a9220f9c94e8370726c4d7be
+
+CURE_FEASIBILITY and the bounded E61-E75 appendix are version 1.0. Previous candidate, approval-pending and integration-pending statements are historical and superseded by this verified record. Approved CP1-CP3 medical findings and source history remain preserved. This closure establishes completed research and integration, not curative efficacy, successful treatment or clinical readiness.
+
+Scope limit: only the authorized bounded CP5 cure-feasibility assessment is PASS / CLOSED. Full CP5 coverage is not complete or closed. CP3 remains the latest completed full checkpoint. CP4 and remaining CP5 research are deferred and require separate authorization. No researcher contact, material acquisition, experiment, recruitment or financial commitment has occurred.
+
+The single active evidence source remains laboratory confirmation of existing human skeletal-ciliopathy models, corrected controls and cartilage endpoints. The highest-value next action is separately authorized feasibility outreach to an appropriate laboratory, initially the Schmidts group. Availability, access, costs and willingness to collaborate remain UNKNOWN.
+
+This later closure record references the preceding immutable approved baseline and does not claim its own commit SHA. Stop here. No later research or external action is authorized by closure.
