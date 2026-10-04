@@ -1,6 +1,6 @@
 # Documentation index
 
-Version 1.7 execution record, updated 2026-10-02. CP3 approved and integrated; PASS / CLOSED. Prior history preserved.
+Version 1.9 execution record, updated 2026-10-04. Bounded CP5 assessment approved; adoption and immutable integration in progress. Prior history preserved.
 
 Google Drive holds project documentation authority under SPBT; GitHub holds research artifact source history. Local files are source-history copies of approved Drive documents. They must not become competing editable authorities.
 
@@ -114,3 +114,33 @@ Baseline identity: https://github.com/FoxyLight/jeune-syndrome-research/commit/8
 Earlier candidate, approval-pending and integration-pending statements are historical and superseded by this verified record. MANAGEMENT_AND_OUTCOMES and the CP3 appendix are version 1.0. Approved CP1/CP2 evidence and source history remain preserved. Small selected samples, source access limits, unvalidated schedules/timing, unknown causal efficacy and unresolved overlap remain limitations of the approved state.
 
 This later closure record references the preceding immutable baseline and does not claim its own commit SHA. PROJECT_STATUS retains exactly one project Next Evidence Source. Stop with CP3 closed; CP4 is NOT STARTED and requires separate authorization.
+
+## CP5 bounded authorization and candidate review record
+
+Date: 2026-10-04. The user specified a general cure research effort and explicitly answered "Authorized" to a bounded CP5 cure-feasibility assessment before CP4. This is an approved research-order amendment for this subset only. CP4 remains NOT STARTED. Full CP5 coverage is not claimed.
+
+Starting approved medical authority: CP1 C1-C6, CP2 G1-G6 and CP3 M1-M7 at their recorded confidence levels and limitations. CP3 remains PASS / CLOSED. Approved baseline 8c43230a2817999f7ccc305cc1c1060e35ec2f27; closure and starting HEAD de4943483dfeb446c867b514b0a9018c182b5a11 on main. Working tree was clean at start. Master policy and specification 1.0 remain unchanged.
+
+Review target: CURE_FEASIBILITY.md, version 0.1, F1-F7, VERIFIED CANDIDATE / AWAITING HUMAN APPROVAL: https://docs.google.com/document/d/1RwpZzjWIag8tTsWJuWAV1a39yHTRV-zfddgj3Kh3S6g/edit . Supporting E61-E75 candidate appendix 0.1: https://docs.google.com/document/d/1NvOFz5ghor8vsBdKSNWB1QGeC5MQ-7xqTOk2FP1l1oU/edit . Approved CP1-CP3 evidence is preserved. Uploading a candidate does not adopt its medical conclusions.
+
+Verification: pivotal primary rescue and failure findings, 2025/2026 work, bounded 27-title PubMed screen, six condition-registry hits, 23 gene-expanded hits and zero supplemental-symbol hits checked. Relevant completed studies concern natural history or diagnostic sampling, not cure testing. Abstract-only access, related diagnoses, people versus clones/cells/embryos, developmental timing and missing delivery/function evidence remain explicit. No pooled efficacy or cure probability is claimed.
+
+Recommendation F7: first verify access to a human skeletal-ciliopathy model, a corrected control and cartilage endpoints with a relevant laboratory. This is a proposed next decision, not authorization to contact researchers, obtain materials or conduct experiments. The former O'Brien/Campbell clinical-text queue remains an unresolved CP3 limitation and is preserved historically below.
+
+Native candidate and appendix content, headings, lists, date elements and Google resource links are checked by readback. Existing date/resource elements and approved register content are preserved. The Windows advisory-reader deviation continues: direct full native reads and revision-controlled targeted writes, without claiming the unavailable wrapper ran. No permanent scripts, automation or branches are added.
+
+Navigation correction: two swapped ordinary commit URLs in Drive PROJECT_STATUS were restored by section: current baseline to CP3 8c43230a2817999f7ccc305cc1c1060e35ec2f27 and CP2 closure baseline to 3ae525bd37263f31a0d88727831b4abaa257490d. The SHA fields and approved medical evidence did not change. Local source-history URLs were already correct.
+
+Human approval of F1-F7 and E61-E75: PENDING. Authoritative adoption, CP5 closure and Git integration: NOT DONE. CP5 immutable SHA: NONE. Prior commit/push authorization applied to CP3 only. Stop at human review; no CP4 work, researcher contact or experiment has begun.
+
+## CP5 bounded approved adoption and integration authorization
+
+Date: 2026-10-04. The user answered "Approve" to the explicit request to approve F1-F7 and E61-E75 at their stated confidence levels and limitations and authorize Drive adoption plus Git commit/push. This adopts the bounded assessment only. Full CP5 completion, CP4, researcher outreach, material acquisition and experiments are not authorized.
+
+CURE_FEASIBILITY version 0.1 is adopted as version 1.0. The E61-E75 appendix is adopted as version 1.0; approved E01-E60 and their history remain unchanged. Previous candidate, pending-approval and research-only exclusions are historical submission records and superseded only for this adoption and authorized integration. No confidence, scientific finding, access limit, diagnosis distinction or experimental recommendation is strengthened by approval.
+
+Current research authority: CP1 C1-C6, CP2 G1-G6, CP3 M1-M7 and bounded CP5 F1-F7 with their recorded limitations. F7 is an approved research recommendation, not an established therapy or permission to contact a laboratory. Delivery, cartilage rescue, reversal after development and collaboration feasibility remain unresolved.
+
+Approved assessment: https://docs.google.com/document/d/1RwpZzjWIag8tTsWJuWAV1a39yHTRV-zfddgj3Kh3S6g/edit . Approved evidence appendix: https://docs.google.com/document/d/1NvOFz5ghor8vsBdKSNWB1QGeC5MQ-7xqTOk2FP1l1oU/edit . Google Drive remains documentation authority; local files preserve source history.
+
+Drive adoption is authorized. Git integration and bounded-assessment closure remain PENDING until native readback, source-history checks, push and immutable identity verification pass. No new SHA is claimed before its commit exists. CP3 remains closed. CP4 and remaining CP5 work remain deferred. The sole active evidence-source field remains laboratory confirmation of model availability and feasibility, pending separately authorized contact.

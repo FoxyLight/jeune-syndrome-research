@@ -359,3 +359,91 @@ Baseline identity: https://github.com/FoxyLight/jeune-syndrome-research/commit/8
 Earlier candidate, approval-pending and integration-pending statements are historical and superseded by this verified record. MANAGEMENT_AND_OUTCOMES and the CP3 appendix are version 1.0. Approved CP1/CP2 evidence and source history remain preserved. Small selected samples, source access limits, unvalidated schedules/timing, unknown causal efficacy and unresolved overlap remain limitations of the approved state.
 
 This later closure record references the preceding immutable baseline and does not claim its own commit SHA. PROJECT_STATUS retains exactly one project Next Evidence Source. Stop with CP3 closed; CP4 is NOT STARTED and requires separate authorization.
+
+## CP5 bounded cure-feasibility appendix
+
+Version 1.0. HUMAN-APPROVED bounded CP5 appendix. Checked 2026-10-04 under explicit research authorization and adopted at its stated confidence levels and limitations. E01-E60 and their approved history remain unchanged. E61-E75 support F1-F7 in CURE_FEASIBILITY.md. Dates below distinguish publication from access. Experimental findings are preliminary for therapeutic use even when the reported laboratory observation is directly verified. Unreported or unextracted fields remain unknown.
+
+## E61: IFT140 gene correction in related human renal organoids
+
+Forbes TA, Howden SE, Lawlor K, et al. Patient-iPSC-Derived Kidney Organoids Show Functional Validation of a Ciliopathic Renal Phenotype and Reveal Underlying Pathogenetic Mechanisms. Am J Hum Genet. Online 2018-04-26; issue 2018-05-03;102:816-831. DOI 10.1016/j.ajhg.2018.03.014; PMID 29706353. https://pmc.ncbi.nlm.nih.gov/articles/PMC5986969/ . Primary clinical, correction and polarity sections checked.
+
+One female Mainzer-Saldino proband, retinal diagnosis at one year and kidney failure at six; no treated patient. IFT140 c.634G>A/c.2176C>G, NM_014714.3; one allele corrected before differentiation. Short/clubbed cilia and epithelial-polarity defects improved relative to the uncorrected line. One corrected clone was carried forward. No cartilage, delivery, longitudinal clinical function or cure tested. Related diagnosis, not a Jeune treatment cohort. Preliminary therapeutic relevance; no clinical follow-up of an intervention.
+
+## E62: KIAA0586 complementation in a Jeune-Joubert study
+
+Malicdan MCV et al. Mutations in human homologue of chicken talpid3 gene (KIAA0586) cause a hybrid ciliopathy with overlapping features of Jeune and Joubert syndromes. J Med Genet. 2015 Dec;52:830-839. DOI 10.1136/jmedgenet-2015-103316; PMID 26386044. https://pubmed.ncbi.nlm.nih.gov/26386044/ . Official primary abstract checked; full-text access challenged. Six children with overlapping features; ages/follow-up not extracted. Full-length wild-type KIAA0586 rescued ciliogenesis in patient fibroblasts. No clinical intervention or skeletal rescue. Separate from E30's Alby cohort; possible recruitment overlap unresolved. Preliminary therapeutic proof of principle, not six treated children.
+
+## E63: DYNC2LI1 complementation depends on allele combination
+
+Qiu H et al. Combinations of deletion and missense variations of the dynein-2 DYNC2LI1 subunit found in skeletal ciliopathies cause ciliary defects. Sci Rep. 2022-01-07. DOI 10.1038/s41598-021-03950-0; PMID 34997029. https://pubmed.ncbi.nlm.nih.gov/34997029/ . Official primary abstract checked. Engineered knockout cells, no treated people; assay replication details not extracted. Wild-type and some missense constructs restored phenotype individually, but deletion/missense combinations retained defects; deletion plus wild-type was normal. This supports gene-restoration testing with the actual allele pair, not treating every missense allele as functional. No cartilage, delivery or long-term clinical endpoint. Preliminary therapeutic relevance; E36 remains the prior human association record.
+
+## E64: Newer WDR34/WDR60 disease models are not correction therapy
+
+Antony D et al. Base editing-derived models of human WDR34 and WDR60 disease alleles replicate retrograde intraflagellar transport (IFT) and hedgehog signaling defects. Commun Biol. 2026-07-01;9:889. DOI 10.1038/s42003-026-10507-2. https://www.nature.com/articles/s42003-026-10507-2 . Primary clinical/model/results sections checked.
+
+One newly described WDR60 child died at 18 months; three missense alleles recreated in mouse IMCD3 cells. Base editing introduced disease alleles, not repair. Transport/signaling defects occurred despite broadly retained ciliation. SAG did not produce the control GLI3 response. Some editing created additional changes, including a missense bystander in one WDR34 clone. Figure counts of 100/130 cells are not patients. No treatment, cartilage rescue or clinical follow-up. Preliminary model utility, unknown therapeutic efficacy. Earlier human reports may overlap; no pooling.
+
+## E65: IFT80/GLI2 cartilage-cell rescue
+
+Wang C, Yuan X, Yang S. IFT80 is essential for chondrocyte differentiation by regulating Hedgehog and Wnt signaling pathways. Exp Cell Res. Online 2013-01-16;319:623-632. DOI 10.1016/j.yexcr.2012.12.028; PMID 23333501. https://pmc.ncbi.nlm.nih.gov/articles/PMC3908790/ . Primary results/figure 3 checked. IFT80-silenced mouse marrow stromal cells showed impaired differentiation; GLI2 overexpression restored cartilage-associated matrix/markers. Figure 3 reports N=6 experimental observations, not six people. Silencing is not a patient hypomorphic allele; no rib, lung, delivery or in vivo safety benefit demonstrated. Preliminary downstream rescue, unknown human relevance and durability.
+
+## E66: Negative Hedgehog rescue in a different IFT80 context
+
+Yuan X et al. Ciliary IFT80 regulates dental pulp stem cells differentiation by FGF/FGFR1 and Hh/BMP2 signaling. Int J Biol Sci. 2019-08-06;15:2087-2099. DOI 10.7150/ijbs.27231. https://pmc.ncbi.nlm.nih.gov/articles/PMC6775288/ . Publisher primary methods/results checked after PMC challenges. Independent animal counts not extracted; figures report assay repetitions and cell counts, not patients. Mouse IFT80-deficient dental-pulp cells: Shh failed to rescue differentiation. This is a different cell type and intervention from E65, not a direct replication failure. It limits indiscriminate pathway activation. No Jeune patients or clinical follow-up. Preliminary mechanistic negative evidence; human efficacy unknown.
+
+## E67: Dync2h1 genetic suppression in embryos
+
+Ocbina PJR, Eggenschwiler JT, Moskowitz IP, Anderson KV. Complex interactions between genes controlling trafficking in primary cilia. Nat Genet. Online 2011-05-08;43:547-553. DOI 10.1038/ng.832; PMID 21552265. https://pmc.ncbi.nlm.nih.gov/articles/PMC3132150/ . Primary results checked. Reducing Ift172 dosage in Dync2h1-mutant mice restored several developmental endpoints; approximately 30% survived to at least embryonic day 16.5 versus death by 13.5 in the original mutant. Two of five examined embryos lacked polydactyly. These are embryonic genotype comparisons, not drug dosing or human survival. No postnatal thoracic cure. Preliminary transport-balance hypothesis, unknown safety/transferability.
+
+## E68: IFT80 renal drug rescue in fish
+
+Tobin JL, Beales PL. Restoration of renal function in zebrafish models of ciliopathies. Pediatr Nephrol. 2008 Nov;23:2095-2099. DOI 10.1007/s00467-008-0898-7; PMID 18604564. https://pmc.ncbi.nlm.nih.gov/articles/PMC7462901/ . Full methods/results checked; exact first-online date not verified. Ten gene-knockdown models, including ift80; at least ten embryos per functional treatment measurement. Rapamycin and, less strongly, roscovitine improved renal morphology/filtration readouts over days; other abnormalities persisted. No human therapy, cartilage rescue or long-term safety. Knockdown fish differ from human variant disease. Preliminary organ-specific lead; clinical benefit unknown. No dose translation is proposed.
+
+## E69: CEP290 RNA rescue is a related-disease precedent
+
+Ramsbottom SA et al. Targeted exon skipping of a CEP290 mutation rescues Joubert syndrome phenotypes in vitro and in a murine model. PNAS. Online 2018-11-16;115:12489-12494. DOI 10.1073/pnas.1809432115; PMID 30446612. https://pubmed.ncbi.nlm.nih.gov/30446612/ . Primary abstract and author institutional record checked; full text challenged. Patient-derived kidney cells and a Cep290 gene-trap mouse model; patient/animal denominators, ages and follow-up not extracted. ASO exon skipping restored protein/ciliary localization in cells and reduced mouse kidney cyst burden. Human and mouse targets differ. No Jeune treatment or thoracic outcome. Preliminary platform relevance; efficacy for Jeune unknown.
+
+## E70: Exon-skipping suitability is gene-specific
+
+Barroso-Gil M et al. Update of genetic variants in CEP120 and CC2D2A-With an emphasis on genotype-phenotype correlations, tissue specific transcripts and exploring mutation specific exon skipping therapies. Mol Genet Genomic Med. 2021 Dec;9:e1603. DOI 10.1002/mgg3.1603; PMID 33486889. https://pubmed.ncbi.nlm.nih.gov/33486889/ . Primary abstract checked. Literature/in-silico and ex-vivo transcript assessment; no treated patients. Fourteen truncating variants in seven CC2D2A exons were proposed as candidates; authors conclude CC2D2A, but not CEP120, offers this potential. Predictions are not demonstrated therapy; denominator, age and clinical follow-up inapplicable/unextracted. Preliminary feasibility analysis and negative constraint against universal ASO claims.
+
+## E71: USP35/USP38 suppressor evidence
+
+Tsai IC et al. Genome-wide suppressor screen identifies USP35/USP38 as therapeutic candidates for ciliopathies. JCI Insight. 2019-11-14. DOI 10.1172/jci.insight.130516. https://insight.jci.org/articles/view/130516 . Primary screen, IFT88 and discussion sections checked. Human RPE cell screen centered on BBS4; zebrafish suppression improved developmental/retinal endpoints, including ift88 visual response at five days. About 22,000 genes screened; this is not a patient denominator. Model-specific experiment counts are not fully extracted. No Jeune genotype cartilage test or treated human. Deubiquitinase suppression is a target hypothesis, not an available drug; mechanism and safety unresolved. Preliminary shared-mechanism lead.
+
+## E72: Newer shared drugs show endpoint discordance
+
+Tata A et al. Prostaglandin Analogs and Eupatilin as Treatments for Nephronophthisis. Kidney Int Rep. Online 2025-05-02;10:2821-2835. DOI 10.1016/j.ekir.2025.04.060; PMID 40814642. https://pmc.ncbi.nlm.nih.gov/articles/PMC12347849/ . Primary methods/results/figures checked. Two named NPHP1 patient cell lines, two related NPHP5 patient lines, and traf3ip1/ift54 zebrafish; ages not extracted, experiments distinct from donors. Eupatilin/prostaglandins improved ciliation in selected cells, but only prostaglandin analogues reduced fish cyst size. ROCK effects also differed by genotype. No Jeune cartilage or human clinical intervention. Figure-specific repetitions do not establish independent patient replication. Preliminary organ-specific drug lead; no whole-disease efficacy.
+
+## E73: Human retinal editing does not establish a Jeune cure
+
+Pierce EA et al. Gene Editing for CEP290-Associated Retinal Degeneration. N Engl J Med. Online 2024-05-06;390:1972-1984. DOI 10.1056/NEJMoa2309915; PMID 38709228. https://pmc.ncbi.nlm.nih.gov/articles/PMC11389875/ . Primary abstract, participant, follow-up and safety sections checked. Open-label phase 1/2, 14 people with CEP290 IVS26-associated retinal degeneration: 12 adults aged 17-63 and children aged nine/fourteen. Median follow-up 376 days as of February 2023. Unilateral EDIT-101; six improved cone-mediated sensitivity. No related serious ocular events or dose-limiting toxicity, but ocular adverse events including visual impairment occurred. Small uncontrolled study, organ/variant-specific, no Jeune population or skeletal/systemic outcome. Preliminary human platform precedent, not approval or cure evidence; current trial enrollment not inferred.
+
+## E74: Search and registry audit trail
+
+Accessed 2026-10-04. Official PubMed ESearch/ESummary screen: ("Jeune syndrome"[Title/Abstract] OR "asphyxiating thoracic dystrophy"[Title/Abstract] OR "short rib thoracic dysplasia"[Title/Abstract] OR "skeletal ciliopathies"[Title/Abstract]) AND (therap*[Title/Abstract] OR rescu*[Title/Abstract] OR organoid*[Title/Abstract] OR CRISPR[Title/Abstract] OR antisense[Title/Abstract]). All 27 returned titles screened. This misses organ-focused work and some newer indexing; targeted primary rescue/gene searches and citation tracing supplied E61-E73. PMID 40339774 (2025 DYNC2H1 synonymous-variant functional study) was screened as diagnostic evidence, not a treatment result. No exhaustive bibliography claimed.
+
+ClinicalTrials.gov API v2, https://clinicaltrials.gov/api/v2/studies . Condition query: Jeune OR "asphyxiating thoracic dystrophy" OR "short rib thoracic dysplasia", six hits. Four unrelated false positives excluded. Relevant: NCT00948376 observational natural history, completed, planned/recorded enrollment 50, last update 2011-12-13; NCT04874909 diagnostic blood/urine sampling, labeled interventional, completed, actual enrollment 240 mixed ciliopathies, last update 2026-05-06. Neither has posted results in this snapshot; neither tests a cure. This rechecks E12/E60 and does not add independent patients. Records: https://clinicaltrials.gov/study/NCT00948376 and https://clinicaltrials.gov/study/NCT04874909 .
+
+Gene-expanded query: DYNC2H1 OR DYNC2LI1 OR WDR34 OR WDR60 OR DYNC2I1 OR DYNC2I2 OR TCTEX1D2 OR DYNLT2B OR IFT140 OR IFT172 OR WDR19 OR WDR35 OR TTC21B OR IFT122 OR IFT43 OR IFT80 OR IFT81 OR IFT52 OR IFT54 OR IFT74 OR IFT57 OR IFT88 OR KIAA0586 OR CEP120 OR KIF7 OR KIAA0753 OR NEK1 OR GRK2 OR INTU OR SCLT1 OR FGF4: 23 hits. Supplemental TRAF3IP1 OR CFAP410 OR C21orf2 OR CILK1 OR CSPP1: zero. Titles/conditions/interventions screened; unrelated gene/word hits excluded, including GRK2-inhibitor studies and FGF4 cardiac gene delivery. NCT04184531 Sensenbrenner observational study retained as related, not a Jeune therapy. No Jeune-directed disease-modifying study identified. Negative result is bounded to this database/query/version; unpublished programs and all international registries were not assessed. Public JSON/XML captures remain outside the repo. Confidence: established observed registry state, unknown exhaustive trial absence.
+
+## E75: Research capabilities and contact limits
+
+Current institutional sources checked 2026-10-04: Freiburg Pediatric Genetics lists Miriam Schmidts and Rare Disease Genetics, https://www.uniklinik-freiburg.de/kinderklinik/forschung-und-klinische-studien/paediatrische-genetik.html . E64 independently supplies current skeletal disease-model work. MCRI Kidney Regeneration describes patient-derived disease modeling, screening and gene editing, https://www.mcri.edu.au/research/research-areas/stem-cell-medicine/kidney-regeneration . E61 supplies the Little/Howden/Forbes precedent. E72 supplies the Imagine Institute Benmerah/Saunier affiliation and drug work. Institutional pages are capability/identity evidence, not clinical trials or willingness to collaborate. No contact, material availability, budget or agreement verified. Confidence: established listed capabilities/affiliations, unknown collaboration feasibility.
+
+## CP5 candidate verification and boundary
+
+F1-F7 preserve the difference between molecular rescue, organ protection, developmental prevention and whole-disease cure. No source establishes a universal intervention. Primary human/model evidence, key negative findings, newer 2025/2026 work and registry false positives were checked. Reused CP1-CP3 sources retain their existing identities; related diagnoses, patient versus clone/embryo counts and possible overlap remain separate. Missing follow-up and inaccessible full texts remain limits, not fabricated fields. E61-E75 are candidate; no adoption, closure, Git commit/push or CP4 start follows from this assessment.
+
+## CP5 bounded approved adoption and integration authorization
+
+Date: 2026-10-04. The user answered "Approve" to the explicit request to approve F1-F7 and E61-E75 at their stated confidence levels and limitations and authorize Drive adoption plus Git commit/push. This adopts the bounded assessment only. Full CP5 completion, CP4, researcher outreach, material acquisition and experiments are not authorized.
+
+CURE_FEASIBILITY version 0.1 is adopted as version 1.0. The E61-E75 appendix is adopted as version 1.0; approved E01-E60 and their history remain unchanged. Previous candidate, pending-approval and research-only exclusions are historical submission records and superseded only for this adoption and authorized integration. No confidence, scientific finding, access limit, diagnosis distinction or experimental recommendation is strengthened by approval.
+
+Current research authority: CP1 C1-C6, CP2 G1-G6, CP3 M1-M7 and bounded CP5 F1-F7 with their recorded limitations. F7 is an approved research recommendation, not an established therapy or permission to contact a laboratory. Delivery, cartilage rescue, reversal after development and collaboration feasibility remain unresolved.
+
+Approved assessment: https://docs.google.com/document/d/1RwpZzjWIag8tTsWJuWAV1a39yHTRV-zfddgj3Kh3S6g/edit . Approved evidence appendix: https://docs.google.com/document/d/1NvOFz5ghor8vsBdKSNWB1QGeC5MQ-7xqTOk2FP1l1oU/edit . Google Drive remains documentation authority; local files preserve source history.
+
+Drive adoption is authorized. Git integration and bounded-assessment closure remain PENDING until native readback, source-history checks, push and immutable identity verification pass. No new SHA is claimed before its commit exists. CP3 remains closed. CP4 and remaining CP5 work remain deferred. The sole active evidence-source field remains laboratory confirmation of model availability and feasibility, pending separately authorized contact.
